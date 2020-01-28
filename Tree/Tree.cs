@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace MyCollectionApp
+namespace MyCollectionLib
 {
 
     public class Tree<T>

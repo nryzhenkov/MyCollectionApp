@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace MyCollectionApp
+namespace MyCollectionLib
 {
     public interface IAcross<T>
     {
