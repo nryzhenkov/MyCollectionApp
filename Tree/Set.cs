@@ -13,6 +13,11 @@ namespace MyCollectionLib
             list.Add(value);
         }
 
+        public Set()
+        {
+            list = new List<T>();
+        }
+
         public bool Add(T value)
         {
             if (isExist(value))
